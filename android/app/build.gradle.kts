@@ -5,7 +5,7 @@ plugins {
 }
 
 android {
-    namespace = "com.example.travel_with_guide"
+    namespace = "com.hussain.travelwithguide"
     compileSdk = flutter.compileSdkVersion
     ndkVersion = flutter.ndkVersion
 
